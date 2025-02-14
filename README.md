@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a developer with adaptability and problem-solving skills, eager to start my professional career in front-end development. My goal is to begin my career in designing and implementing attractive and functional user interfaces. Furthermore, my proactive approach and ability to learn quickly allow me to easily adapt to new environments and emerging technologies.<br><br><br>🔭 I’m currently working on my Final Year Project (TFG), developing an educational mod for Minecraft that teaches about different cultures through exploration, mini-games, and creativity.<br>🌱 I’m currently learning how to create different video games in different platforms and engines.
+I am a developer with adaptability and problem-solving skills. My goal is to begin my career in designing and implementing attractive and functional user interfaces. Furthermore, my proactive approach and ability to learn quickly allow me to easily adapt to new environments and emerging technologies.<br><br><br>🔭 I’m currently working on my Final Year Project (TFG), developing an educational mod for Minecraft that teaches about different cultures through exploration, mini-games, and creativity.<br>🌱 I’m currently learning how to create different video games in different platforms and engines.
 
 
 ## 🌐 Socials:
